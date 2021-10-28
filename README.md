@@ -20,15 +20,12 @@ and also
 5. CSS
 
 You can visit my website here
-
-[https://www.iashyam.in/]
+https://www.iashyam.in/
 
 You can write a mail to me here
-
-[Shyam10kwd@gmail.com]
+Shyam10kwd@gmail.com
 
 Here is my Instagram Handle
-
-(Instagram)[www.instagram.com/iashyam]
+www.instagram.com/iashyam
 
 Feel free to start a project with me!! Happy learning..
