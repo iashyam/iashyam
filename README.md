@@ -19,13 +19,16 @@ and also
 4. HTML 
 5. CSS
 
-You can visit my website here
+You can visit my website here:
+
 https://www.iashyam.in/
 
-You can write a mail to me here
+You can write a mail to me here:
+
 Shyam10kwd@gmail.com
 
-Here is my Instagram Handle
+Here is my Instagram Handle:
+
 www.instagram.com/iashyam
 
 Feel free to start a project with me!! Happy learning..
