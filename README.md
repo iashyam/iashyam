@@ -1,6 +1,6 @@
 # Hello World!
 
-My name is __Shyam Sunder__ and I am a Physics Student in St. Stephen's College, New Delhi. 
+My name is __Shyam Sunder__ and I am studing Physics at St. Stephen's Coleege, New Delhi. 
 
 I have interest in Programming since my college and from last year I am enjoying it very much. 
 
