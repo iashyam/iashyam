@@ -21,11 +21,11 @@ and also
 
 You can visit my website here
 
-(The Rest Frame)[iashyam.in]
+[https://www.iashyam.in/]
 
 You can write a mail to me here
 
-()[Shyam10kwd@gmail.com]
+[Shyam10kwd@gmail.com]
 
 Here is my Instagram Handle
 
