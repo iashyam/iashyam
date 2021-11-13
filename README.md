@@ -1,12 +1,12 @@
-# Hello World!
+# Hello World! 
 
 My name is __Shyam Sunder__ and I am studing Physics at St. Stephen's Coleege, New Delhi. 
 
-I have interest in Programming since my college and from last year I am enjoying it very much. 
+- Little bit in frontend development.
+- Interested in solving Physics problems computationally.
+- Quantum Mechanics is my favorite subject.
 
-I like computational Physics because I believe that hard Physics Problems that can't be done on paper can be easily solved using a computer with the help of efective algorithms. So I am learning various algorithms.
-
-I have also done some Web Development... I do sometimes for stress release.
+---
 
 My Programming skills include
 
@@ -18,7 +18,16 @@ and also
 
 4. HTML 
 5. CSS
+---
 
+In future I am planning to do
+
+- Google Clould based projects.
+- Want to learn Flask or Django.
+- Want to learn machine learning
+
+
+---
 You can visit my website here:
 
 https://www.iashyam.in/
