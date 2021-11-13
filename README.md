@@ -22,7 +22,7 @@ and also
 
 In future I am planning to do
 
-- Google Clould based projects.
+- Google Cloud based projects.
 - Want to learn Flask or Django.
 - Want to learn machine learning
 
