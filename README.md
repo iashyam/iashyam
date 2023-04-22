@@ -1,8 +1,8 @@
 # Hello World! 
 
-My name is __Shyam Sunder__ and I am studing Physics at St. Stephen's College, New Delhi. 
+My name is __Shyam Sunder__ and I am a student at IIT Madras. Perusing MSc Physics.
 
-- Little bit in frontend development.
+- Little bit in Soft Matter  Physics. 
 - Interested in solving Physics problems computationally.
 - Quantum Mechanics is my favorite subject.
 
@@ -22,9 +22,10 @@ and also
 
 In future I am planning to do
 
+- Machine Learning 
 - Google Cloud based projects.
 - Want to learn Flask or Django.
-- Want to learn machine learning
+
 
 
 ---
