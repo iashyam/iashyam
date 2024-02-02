@@ -17,7 +17,7 @@ possible in this exciting discipline
 |RBSE|Secondry|2017|
 
 ## Projects
-__Self Propulsion of Active Droplet Under Chemical Reaction__
+### __Self Propulsion of Active Droplet Under Chemical Reaction__
 
 * Showing Liquid-Liquid Phase Separation (LLPS) in Binary Fluid using _Active Model H_.
 * Implemented Spectral Method to solve coupled differential equations in three fields and simulate their dynamics in
@@ -25,7 +25,7 @@ Python.
 * Simulated the self-propulsion of an Active Droplet under a dilute chemical field and low Reynolds’s number
 approximation
 
-__Monte Carlo Simulations__
+### __Monte Carlo Simulations__
 
 + Implemented Metropolis Algorithm to simulate the Ising Model in python.
 + Verify the phase transition in the presence and absence of a magnetic field. Calculated the critical temperature for the
@@ -33,7 +33,7 @@ __Monte Carlo Simulations__
 + Showed the temperature dependence of magnetic moment and susceptibility.
 + Tested the model for various scales and verified the scaling hypothesis.
 
-__Simulatios for Ensambles__
+### __Simulatios for Ensambles__
 + __Micro-canonical Ensemble simulation:__ Showed the Maxwellian distribution of velocity among hard spheres in a box
 with weak interactions. Used Newton’s Laws to simulate the dynamics.
 + __Leonard-Jones Fluid:__ Did the simulation for hard-spheres in a box interacting through Leonard-Jones potential.
@@ -42,33 +42,33 @@ Showed phase transition in the fluid.
 
 ## Other Programming Projects
 
-__Serial Port Reader__
+### __Serial Port Reader__
 
 + Reading continuous data from serial port using _Arduino_.
 + Storing the data in Excel sheets.
 + Elementry analysis of data using _Pandas_ and plotting the results.
 + Designing a GUI for automating the process. 
 
-__API Based Project__
+### __API Based Project__
 
 + Getting data using Blogger API. And extracting relevant data using JSON. 
 + Getting data and posting on Instagram using Meta API. 
 + Building automated software for posting on Instagram whenever I make a new blog post. 
 
-__Machine Learning Based Project__
+### __Machine Learning Based Project__
 
 + Training a simple Neural Network to find the roots of a polynomial equation. 
 + Training a simple Nueral Network for solve 1-D diffrential Equation.(UF)
 + More to be added in future. 
 
-__Web Development Based Project__:
+### __Web Development Based Project__:
 
 + Simple portfolio or someone in a modeling career. 
 + Adding small features and developments to my own HUGO website. 
 + Built a small website for myself using HTML and CSS. 
 + More to be added in the future.
 
-__Other Self Projects__:
+### __Other Self Projects__:
 + __Lisaajoo’s figures:__ An interactive GUI software to draw Lisaajoo’s figures for any general case.
 + __Web Scrapper:__ A web scrapping tool that automatically creates a new GitHub repo on my account whenever I start a new project.
 It works on the Linux platform and uses Linux shell scripts.
