@@ -1,44 +1,118 @@
-# Hello World! 
+# Shyam Sunder
+#### Student at Indian Institute of Technology Madras
 
-My name is __Shyam Sunder__ and I am a student at IIT Madras. Perusing MSc Physics.
+## Introduction
+Driven by a deep passion for physics and strong programming skills, my enthusiasm lies at the heart of solving
+complex problems, particularly in statistical mechanics. While my programming skills are robust, my true devotion
+is to the world of physics. I am committed to utilizing my programming insight to push the boundaries of what is
+possible in this exciting discipline
 
-- Little bit in Soft Matter  Physics. 
-- Interested in solving Physics problems computationally.
-- Quantum Mechanics is my favorite subject.
+## Education
+|Institute|Degree|Year|
+|---|---|--|
+|IIT Madras|MSc. Physics|2022-24|
+|Delhi University| BSc. (H) Physics| 2019-22|
+|Vardhman Mahaveer Open University|Certificate in IT| 2017|
+|RSBE|Higher Secondry|2019|
+|RBSE|Secondry|2017|
 
----
+## Projects
+__Self Propulsion of Active Droplet Under Chemical Reaction__
 
-My Programming skills include
+* Showing Liquid-Liquid Phase Separation (LLPS) in Binary Fluid using _Active Model H_.
+* Implemented Spectral Method to solve coupled differential equations in three fields and simulate their dynamics in
+Python.
+* Simulated the self-propulsion of an Active Droplet under a dilute chemical field and low Reynolds’s number
+approximation
 
-1. Python
-1. C++
-1. Fortran
+__Monte Carlo Simulations__
 
-and also
++ Implemented Metropolis Algorithm to simulate the Ising Model in python.
++ Verify the phase transition in the presence and absence of a magnetic field. Calculated the critical temperature for the
+2-D and 3-D Ising models.
++ Showed the temperature dependence of magnetic moment and susceptibility.
++ Tested the model for various scales and verified the scaling hypothesis.
 
-4. HTML 
-5. CSS
----
+__Simulatios for Ensambles__
++ __Micro-canonical Ensemble simulation:__ Showed the Maxwellian distribution of velocity among hard spheres in a box
+with weak interactions. Used Newton’s Laws to simulate the dynamics.
++ __Leonard-Jones Fluid:__ Did the simulation for hard-spheres in a box interacting through Leonard-Jones potential.
++ __Canonical Ensemble simulation:__ Applied the Thermostat method to fix the temperature of Leonard-Jones Fluid.
+Showed phase transition in the fluid.
 
-In future I am planning to do
+## Other Programming Projects
 
-- Machine Learning 
-- Google Cloud based projects.
-- Want to learn Flask or Django.
+__Serial Port Reader__
 
++ Reading continuous data from serial port using _Arduino_.
++ Storing the data in Excel sheets.
++ Elementry analysis of data using _Pandas_ and plotting the results.
++ Designing a GUI for automating the process. 
 
+__API Based Project__
 
----
-You can visit my website here:
++ Getting data using Blogger API. And extracting relevant data using JSON. 
++ Getting data and posting on Instagram using Meta API. 
++ Building automated software for posting on Instagram whenever I make a new blog post. 
 
-https://www.iashyam.in/
+__Machine Learning Based Project__
 
-You can write a mail to me here:
++ Training a simple Neural Network to find the roots of a polynomial equation. 
++ Training a simple Nueral Network for solve 1-D diffrential Equation.(UF)
++ More to be added in future. 
 
-Shyam10kwd@gmail.com
+__Web Development Based Project__:
 
-Here is my Instagram Handle:
++ Simple portfolio or someone in a modeling career. 
++ Adding small features and developments to my own HUGO website. 
++ Built a small website for myself using HTML and CSS. 
++ More to be added in the future.
 
-www.instagram.com/iashyam
+__Other Self Projects__:
++ __Lisaajoo’s figures:__ An interactive GUI software to draw Lisaajoo’s figures for any general case.
++ __Web Scrapper:__ A web scrapping tool that automatically creates a new GitHub repo on my account whenever I start a new project.
+It works on the Linux platform and uses Linux shell scripts.
++ __Sudoku:__ Made a simple sudoku game using GUI in Python. 
 
-Feel free to start a project with me!! Happy learning..
+## Technical Skills
+
+__Languages__: Python, C++, HTML, CSS. JavaScript
+
+**Technology/Frameworks**: Linux, Latex, GitHub, WordPress
+
+**Skills(Bigginer)**: Deep Learning, Data Analysis
+
+## Awards And Achievements 
+
++ INSPIRE Award by Department of Science and Technology, Government of India
+
++ Meritorious Award by the Department of Physics and Astrophysics at the University of Delhi
++ Merit Scholarship by Board of Secondary Education, Rajasthan
+
+## Leadership
+
+#### General Secretary, The Poetry Society, St. Stephen's College
++ Organised Open mics and Open Poetry Discussions.
++ Putting together a team and guiding people for the annual fest of the society: _Traverse_.
++ Built, designed, and set up the society blog Ellipses.
+
+## Experience 
+
++ Teaching Assistant: Personal And Professional Growth Course, IIT Madras
++ Freelance Teaching: Learn with PKB
+
+## Hobbies and Extra-curricular
+
++ Running a literary blog consistently for about four years.
++ Reading books and articles 
++ Writing poems and stories
++ Expressive Arts, painting and sketching.
++ Interested in Literature and  Linguistics
++ Interested in Philosophy and History
+
+## Contact Me:
+
++ Mail: [Shyam10kwd@gmail.com](mailto:shyam10kwd@gmail.com)
++ LinkedIn: [iashyam](https://www.linkedin.com/in/iashyam)
++ Twitter: [shyam10kwd](https://www.twitter.com/shyam10kwd)
++ Instagram: [the_rest_frame](https://www.instagram.com/the_rest_frame/?hl=en)
