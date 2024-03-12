@@ -1,5 +1,5 @@
-# Shyam Sunder
-#### Student at Indian Institute of Technology Madras
+![Profile GH Banner.png](https://github.com/iashyam/iashyam/blob/main/Profile%20GH%20Banner.png)
+
 
 ## Introduction
 Driven by a deep passion for physics and strong programming skills, my enthusiasm lies at the heart of solving
