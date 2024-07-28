@@ -52,13 +52,17 @@ Showed phase transition in the fluid.
 + Reading continuous data from serial port using _Arduino_.
 + Storing the data in Excel sheets.
 + Elementry analysis of data using _Pandas_ and plotting the results.
-+ Designing a GUI for automating the process. 
++ Designing a GUI to automate the process.
+
+### __Worlde Bot__
++ It uses information theory to solve wordle puzzles.
++ It uses Pandas and other data analysis tools to minimize the number of guesses. 
 
 ### __API Based Project__
 
 + Getting data using Blogger API. And extracting relevant data using JSON. 
 + Getting data and posting on Instagram using Meta API. 
-+ Building automated software for posting on Instagram whenever I make a new blog post. 
++ Building automated software for posting on Instagram whenever I post a new blog. 
 
 ### __Machine Learning Based Project__
 
