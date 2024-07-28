@@ -5,7 +5,12 @@
 Driven by a deep passion for physics and strong programming skills, my enthusiasm lies at the heart of solving
 complex problems, particularly in statistical mechanics. While my programming skills are robust, my true devotion
 is to the world of physics. I am committed to utilizing my programming insight to push the boundaries of what is
-possible in this exciting discipline
+possible in this exciting discipline.
+
+## Experience
+### Associate Structural Engineer (July 2024- )
+* Record and manage weight data and create weight control reports.
+* Create and analyse a database from the weight control team. 
 
 ## Education
 |Institute|Degree|Year|
