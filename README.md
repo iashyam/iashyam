@@ -1,4 +1,4 @@
-![Profile GH Banner.png](https://github.com/iashyam/iashyam/blob/main/Profile%20GH%20Banner.png)
+![Profile GH Banner.png](https://github.com/iashyam/iashyam/blob/main/CV%20Back.png)
 
 
 ## Introduction
@@ -7,8 +7,8 @@ complex problems, particularly in statistical mechanics. While my programming sk
 is to the world of physics. I am committed to utilizing my programming insight to push the boundaries of what is
 possible in this exciting discipline.
 
-## Experience
-### McDermott Internation- Associate Structural Engineer (July 2024- )
+##  Work Experience
+**McDermott International-** Associate Structural Engineer (July 2024- )
 * Record and manage weight data and create weight control reports.
 * Create and analyse a database from the weight control team. 
 
