@@ -8,7 +8,7 @@ is to the world of physics. I am committed to utilizing my programming insight t
 possible in this exciting discipline.
 
 ## Experience
-### Associate Structural Engineer (July 2024- )
+### McDermott Internation- Associate Structural Engineer (July 2024- )
 * Record and manage weight data and create weight control reports.
 * Create and analyse a database from the weight control team. 
 
