@@ -13,7 +13,7 @@ possible in this exciting discipline.
 * Create and analyse a database from the weight control team. 
 
 ## Education
-|Institute|Degree|Year|
+|**Institute**|**Degree**|**Year**|
 |---|---|--|
 |IIT Madras|MSc. Physics|2022-24|
 |Delhi University| BSc. (H) Physics| 2019-22|
