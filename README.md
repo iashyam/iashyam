@@ -85,11 +85,11 @@ It works on the Linux platform and uses Linux shell scripts.
 
 ## Technical Skills
 
-__Languages__: Python, C++, HTML, CSS. JavaScript
+__Languages__: Python, C++, HTML, CSS. JavaScript, SQL
 
 **Technology/Frameworks**: Linux, Latex, GitHub, WordPress
 
-**Skills(Bigginer)**: Deep Learning, Data Analysis
+**Skills**: Deep Learning, Data Analysis, Data Mining, Statistics
 
 ## Awards And Achievements 
 
@@ -109,6 +109,11 @@ __Languages__: Python, C++, HTML, CSS. JavaScript
 
 + Teaching Assistant: Personal And Professional Growth Course, IIT Madras
 + Freelance Teaching: Learn with PKB
+
+## Certificates 
+
++ Data Analysis from LinkedIn Learning 
++ SQL intermidiate from LinkedIn Learning 
 
 ## Hobbies and Extra-curricular
 
