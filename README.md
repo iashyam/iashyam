@@ -55,8 +55,13 @@ Showed phase transition in the fluid.
 + Designing a GUI to automate the process.
 
 ### __Worlde Bot__
-+ It uses information theory to solve wordle puzzles.
-+ It uses Pandas and other data analysis tools to minimize the number of guesses. 
++ Uses information theory to solve wordle puzzles.
++ Uses Pandas and other data analysis tools to minimize the number of guesses.
+
+### __Cricket Records Dashboard__
++ Uses Data Cleaning and Transformation Skills.
++ Builds an interactive GUI Application for displaying the sorted records according to filters set by the user.
++ Provides backend support for the GUI Application. 
 
 ### __API Based Project__
 
