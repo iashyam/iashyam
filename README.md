@@ -73,6 +73,7 @@ Showed phase transition in the fluid.
 
 + Training a simple Neural Network to find the roots of a polynomial equation. 
 + Training a simple Nueral Network for solve 1-D diffrential Equation.(UF)
++ Handwritten digits recognition program with Keras's Neural Network ($97%$ Accuracy)
 + More to be added in future. 
 
 ### __Web Development Based Project__:
