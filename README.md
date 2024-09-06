@@ -1,4 +1,4 @@
-![Profile GH Banner.png](https://github.com/iashyam/iashyam/blob/main/CV%20Back.png)
+![https://github.com/iashyam/iashyam/blob/main/CV%20Back.png](https://github.com/iashyam/iashyam/blob/main/Profile%20GH%20Banner.png)
 
 
 ## Introduction
