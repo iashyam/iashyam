@@ -21,14 +21,18 @@ possible in this exciting discipline.
 |RSBE|Higher Secondry|2019|
 |RBSE|Secondry|2017|
 
-## Projects
+## Physcis Projects
 ### __Self Propulsion of Active Droplet Under Chemical Reaction__
 
 * Showing Liquid-Liquid Phase Separation (LLPS) in Binary Fluid using _Active Model H_.
 * Implemented Spectral Method to solve coupled differential equations in three fields and simulate their dynamics in
 Python.
 * Simulated the self-propulsion of an Active Droplet under a dilute chemical field and low Reynolds’s number
-approximation
+approximation.
+* Simulated the self-propulsion of an active Janus Droplet, and analysed the effect of environment on propulsion speed.
+* Simulated the self-propulsion of an active Janus Particle, by extending the droplet theory using Fluid Particle Dynamics.
+* Developed a generalised code and algorithm to explore self-propulsion using conserved field dynamics and low Reynolds’s number
+approximation.
 
 ### __Monte Carlo Simulations__
 
@@ -74,6 +78,7 @@ Showed phase transition in the fluid.
 + Training a simple Neural Network to find the roots of a polynomial equation. 
 + Training a simple Nueral Network for solve 1-D diffrential Equation.(UF)
 + Handwritten digits recognition program with Keras's Neural Network ($97%$ Accuracy)
++ Huston's House price prediction platform. (Submitted in Kaggle competition.
 + More to be added in future. 
 
 ### __Web Development Based Project__:
