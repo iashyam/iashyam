@@ -46,7 +46,7 @@ I enjoy working on problems that lies in the intersection of physics, biology an
 
 📫 **Let’s connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/iashyam) 
-- 🌐 [Personal Website/Blog](https://iashyam.github.io/blog) _(add link)_  
+- 🌐 [Personal Website/Blog](https://iashyam.github.io/blog)
 - ✉️ [Email](mailto:shyam10kwd@gmail.com)  
 
 ⭐️ *“At the intersection of physics and programming, I’m building tools to understand the universe a little better.”*  
